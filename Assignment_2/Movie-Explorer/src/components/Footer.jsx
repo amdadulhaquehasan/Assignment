@@ -17,7 +17,7 @@ export default function Footer() {
           </div>
           <div className="flex items-center gap-5 text-sm text-paper-muted">
           <a
-            href="https://github.com"
+            href="https://github.com/amdadulhaquehasan/Assignment/tree/main/Assignment_2/Movie-Explorer"
             className="transition-colors hover:text-violet"
             target="_blank"
             rel="noreferrer"
